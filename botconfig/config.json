@@ -1,7 +1,7 @@
 {
    "token": "ODc1Nzg4MjU1NTYyNDU3MDk4.YRanXw.eurg6AVm6K_fcxOtvd5Nq6EeEtA",
    "prefix": ".",
-   "ownerIDS": 
+   "ownerIDS": [
       "820471122347688007"
    ],
    "memer_api": "7Yj4j3k3k98",
@@ -11,7 +11,7 @@
       "type": "PLAYING",
       "url": "https://twitch.tv/milratoDiscordBot"
    },
-   "clientsettings": 
+   "clientsettings": {
       "nodes": [
          {
             "host": "node04.lavalink.eu",
